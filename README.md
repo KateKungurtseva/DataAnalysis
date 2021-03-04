@@ -24,12 +24,12 @@
 <td><b>pandas, numpy, matplotlib, seaborn, scipy</b></td>
 <tr>
 <td> <b>5</b></td>
-<td><a href="https://nbviewer.jupyter.org/github/m-tolmachev/DataAnalysis-Yandex/blob/acc8a1b934b1e474f6119cad2bccb5c1d35d15fb/5%20-%20Аналитика%20в%20авиакомпании.ipynb" target="_blank"><b>Аналитика в авиакомпании</b></a></td>
+<td><a href="https://" target="_blank"><b>Аналитика в авиакомпании</b></a></td>
 <td>Необходимо написать парсер для сбора с сайта данных о 10 крупнейших фестивалях года, произвести исследовательский анализ данных, построить графики.</td>
 <td>pandas, numpy, matplotlib, scipy, <b>plotly.graph_objs, plotly.offline</b></td>
 <tr>
 <td> <b>6</b></td>
-<td><a href="https://nbviewer.jupyter.org/github/m-tolmachev/DataAnalysis-Yandex/blob/acc8a1b934b1e474f6119cad2bccb5c1d35d15fb/6%20-%20Аналитика%20в%20Яндекс.Афише.ipynb" target="_blank"><b>Анализ бизнес-показателей</b></a></td>
+<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/afisha/afisha.ipynb" target="_blank"><b>Анализ бизнес-показателей</b></a></td>
 <td>Задача: помочь маркетологам оптимизировать маркетинговые затраты в отделе аналитики Яндекс.Афиши. Расчет бизнес-метрик: Retention rate, Churn Rate, LTV, CAC, ROMI.
 <td>pandas, numpy, matplotlib, seaborn</td>
 <tr>
