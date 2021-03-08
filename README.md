@@ -29,35 +29,34 @@
 <td>pandas, numpy, matplotlib, scipy, <b>plotly.graph_objs, plotly.offline</b></td>
 <tr>
 <td> <b>6</b></td>
-<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/afisha/afisha.ipynb" target="_blank"><b>Анализ бизнес-показателей</b></a></td>
+<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/6%20-%20Аналитика%20в%20Яндекс.Афише/project.ipynb" target="_blank"><b>Анализ бизнес-показателей</b></a></td>
 <td>Задача: помочь маркетологам оптимизировать маркетинговые затраты в отделе аналитики Яндекс.Афиши. Расчет бизнес-метрик: Retention rate, Churn Rate, LTV, CAC, ROMI.
 <td>pandas, numpy, matplotlib, seaborn</td>
 <tr>
 <td> <b>7</b></td>
-<td><a href="https://"><b>Анализ результатов AB-теста</b></a></td>
+<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/7%20-%20Аналитика%20интернет%20магазина.%20АВ-тест/project.ipynb"><b>Анализ результатов AB-теста</b></a></td>
 <td>Аналитика в крупном интернет-магазине. Вместе с отделом маркетинга был подготовлен список гипотез для увеличения выручки.Приоритизируем гипотезы, запускаем A/B-тест и анализируем результаты. Применяем фреймворки ICE, RICE. Строим куммулятивную конверсию.</td>
-<td>pandas, numpy, matplotlib, scipy, plotly.graph_objs, plotly.offline, collections, datetime</td>
+<td>pandas, numpy, matplotlib, scipy, scipy.stats, plotly.graph_objs, collections, datetime</td>
 <tr>
 <td> <b>8</b></td>
-<td><a href="https://"><b>Рынок заведений общественного питания Москвы</b></a></td>
+<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/8%20-%20Аналитика%20рынка%20заведений%20общепита%20Москвы/project.ipynb"><b>Рынок заведений общественного питания Москвы</b></a></td>
 <td>Исследовательский проект для инвесторов по открытию небольшого кафе в Москве.</td>
-<td>pandas, numpy, matplotlib, scipy,  </b>API, plotly, geopandas, IFrame, HTML, folium, yaml, bokeh</b></td>
+<td>pandas, numpy, matplotlib.pyplot, scipy, plotly.express, plotly.graph_objects, seaborn</td>
 <tr>
 <td> <b>9</b></td>
-<td><a href="https://" target="_blank"><b>Сборный проект-2. ААВ-тесты</b></a></td>
+<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/9%20-%20Сборный%20проект2.%20ААВ-тесты/project.ipynb" target="_blank"><b>Сборный проект-2. ААВ-тесты</b></a></td>
 <td>А/А/В-тестирование, множественное тестирование и применение поправок к полученным результатам.</td>
-<td>pandas, numpy, matplotlib, scipy, plotly, </b>math</b></td>
+<td>pandas, numpy, matplotlib, matplotlib.pyplot, scipy, plotly, math</b>math</b></td>
 <tr>
 <td> <b>10</b></td>
-<td><a href="https://" target="_blank"><b>Пайплайн для проекта Яндекс.Дзен</b></a>; 
-<a href="https://" target="_blank"><b>Дашборд для проекта Яндекс.Дзен</b></a></td>
-<td>В проекте подразумевается создание дэшборда для менеджеров, чтобы автоматизировать процесс отслеживания взаимодействие пользователей с карточками Яндекс.Дзен. Необходимо выгрузить файл данных для дашборда, на его основе создать дашборд на сайте Tableau Public, создать файл с презентацией в формате pdf.<a href="https://" target="_blank"><b>Описание реузльтатов дэшборда</b></a></td>
-<td>postgresql, SQL, sqlalchemy, dash, sys, getopt, plotly, pandas</td>
+<td><a href="https://github.com/KateKungurtseva/DataAnalysis/tree/main/10%20-%20Дашборд%20tableau%20для%20Яндекс.Дзен" target="_blank"><b>Дашборд и презентация для проекта Яндекс.Дзен</b></a></td>
+<td>В проекте подразумевается создание дэшборда tableau для менеджеров, чтобы автоматизировать процесс отслеживания взаимодействие пользователей с карточками Яндекс.Дзен. Необходимо выгрузить файл данных для дашборда, на его основе создать дашборд на сайте Tableau Public, создать файл с презентацией в формате pdf.</td>
+<td>postgresql, SQL, sqlalchemy, pandas</td>
 <tr>
 <td> <b>11</b></td>
-<td><a href="https://" target="_blank"><b>Проект по курсу Machine Learning</b></a></td>
-<td>Для сети фитнес-центров разрабатываем стратегию взаимодействия с пользователями на основе аналитических данных. Задача проекта -  провести анализ и подготовить план действий по удержанию клиентов. В данном проекте на основании метрик: Accuracy, Precision, Recall, F1, ROC_AUC выбираем подходящую модель прогнозирования из двух обученных: LogisticRegression и RandomForestClassifier. Делаем кластеризацию на основании построенной дендограммы и на основании полученных кластеров строим гистограммы распределения, делаем выводы и прогнозы. </td>
-<td>pandas, seaborn, </b>sklearn, scipy.cluster.hierarchy, sklearn.metrics</b>  plotly </td>
+<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/11%20-%20Основы%20машинного%20обучения/project.ipynb" target="_blank"><b>Проект по курсу Machine Learning</b></a></td>
+<td>Для сети фитнес-центров разрабатываем стратегию взаимодействия с пользователями на основе аналитических данных. Задача проекта -  провести анализ и подготовить план действий по удержанию клиентов. В данном проекте на основании метрик: Accuracy, Precision, Recall, F1, ROC_AUC выбираем подходящую модель прогнозирования из двух обученных: LogisticRegression и RandomForestClassifier. Делаем кластеризацию на основании построенной дендограммы и на основании полученных кластеров строим гистограммы распределения, делаем выводы и прогнозы.</td>
+<td>pandas, seaborn, matplotlib</b>sklearn, scipy.cluster.hierarchy, sklearn.metrics, sklearn.model_selection, sklearn.linear_model, sklearn.ensemble, sklearn.preprocessing, sklearn.cluster</b>  plotly </td>
 <tr>
 </table>
 <br/><br/>
