@@ -1,2 +1,0 @@
-# DataAnalysis/fitness
-Описание проекта
