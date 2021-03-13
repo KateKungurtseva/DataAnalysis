@@ -4,47 +4,47 @@
 
 <table>
 <td> <b>1</b></td>
-<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/1%20-%20Исследование%20надежности%20заемщиков/project.ipynb" target="_blank"><b>Исследование надёжности заёмщиков</b></a></td>
+<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/1%20-%20Исследование%20надежности%20заемщиков" target="_blank"><b>Исследование надёжности заёмщиков</b></a></td>
 <td>У нас есть входные данные от банка — статистика о платёжеспособности клиентов. В результате исследования мы должны построить модель кредитного скоринга — специальную систему, которая оценивает способность потенциального заёмщика вернуть кредит банку.</td>
 <td><b>pandas</b>
 <tr>  
 <td> <b>2</b></td>
-<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/2%20-%20Аналитика%20рынка%20недвижимости/project.ipynb" target="_blank"><b>Исследование объявлений о продаже квартир</b></a></td>
+<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/2%20-%20Аналитика%20рынка%20недвижимости" target="_blank"><b>Исследование объявлений о продаже квартир</b></a></td>
 <td>Определение рыночной стоимости объектов недвижимости (на базе данных ресурса Яндекс.Недвижимость). Необходимо установить параметры, которые оказывают влиение на финальную стоимость. Это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность. </td>
 <td><b>pandas, matplotlib</b>
 <tr>
 <td> <b>3</b></td>
-<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/3%20-%20Определение%20перспективного%20тарифа%20для%20телеком%20компании/project.ipynb" target="_blank"><b>Определение перспективного тарифа для телеком-компании</b></a></td>
+<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/3%20-%20Определение%20перспективного%20тарифа%20для%20телеком%20компании" target="_blank"><b>Определение перспективного тарифа для телеком-компании</b></a></td>
 <td>Анализ тарифов мобильного оператора. Необходимо проанализировать поведение клиентов и сделать вывод — какой тариф лучше. В данном проекте я формулирую нулевую и альтернативную гипотезы для проверки средней выручки пользователей из разных регионов/с разними тарифами.</td>
 <td></b>pandas, scipy, matplotlib, seaborn, numpy, math</b></td>
 <tr>
 <td> <b>4</b></td>
-<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/4%20-%20Сборныи?%20проект1/project.ipynb" target="_blank"><b>Сборный проект-1. Анализ игровой индустрии</b></td>
+<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/4%20-%20Сборныи?%20проект1" target="_blank"><b>Сборный проект-1. Анализ игровой индустрии</b></td>
 <td>Аналитика интернет-магазина игр для консолей и ПК. Необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.</td>
 <td><b>pandas, numpy, matplotlib, seaborn, scipy</b></td>
 <tr>
 <td> <b>5</b></td>
-<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/5%20-%20Аналитика%20в%20авиакомпании/project.ipynb" target="_blank"><b>Аналитика в авиакомпании</b></a></td>
+<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/5%20-%20Аналитика%20в%20авиакомпании" target="_blank"><b>Аналитика в авиакомпании</b></a></td>
 <td>Необходимо написать парсер для сбора с сайта данных о 10 крупнейших фестивалях года, произвести исследовательский анализ данных, построить графики.</td>
 <td>pandas, numpy, matplotlib, scipy, <b>plotly.graph_objs, plotly.offline</b></td>
 <tr>
 <td> <b>6</b></td>
-<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/6%20-%20Аналитика%20в%20Яндекс.Афише/project.ipynb" target="_blank"><b>Анализ бизнес-показателей</b></a></td>
+<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/6%20-%20Аналитика%20в%20Яндекс.Афише" target="_blank"><b>Анализ бизнес-показателей</b></a></td>
 <td>Задача: помочь маркетологам оптимизировать маркетинговые затраты в отделе аналитики Яндекс.Афиши. Расчет бизнес-метрик: Retention rate, Churn Rate, LTV, CAC, ROMI.
 <td>pandas, numpy, matplotlib, seaborn</td>
 <tr>
 <td> <b>7</b></td>
-<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/7%20-%20Аналитика%20интернет%20магазина.%20АВ-тест/project.ipynb"><b>Анализ результатов AB-теста</b></a></td>
+<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/7%20-%20Аналитика%20интернет%20магазина.%20АВ-тест"><b>Анализ результатов AB-теста</b></a></td>
 <td>Аналитика в крупном интернет-магазине. Вместе с отделом маркетинга был подготовлен список гипотез для увеличения выручки.Приоритизируем гипотезы, запускаем A/B-тест и анализируем результаты. Применяем фреймворки ICE, RICE. Строим куммулятивную конверсию.</td>
 <td>pandas, numpy, matplotlib, scipy, scipy.stats, plotly.graph_objs, collections, datetime</td>
 <tr>
 <td> <b>8</b></td>
-<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/8%20-%20Аналитика%20рынка%20заведений%20общепита%20Москвы/project.ipynb"><b>Рынок заведений общественного питания Москвы</b></a></td>
+<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/8%20-%20Аналитика%20рынка%20заведений%20общепита%20Москвы"><b>Рынок заведений общественного питания Москвы</b></a></td>
 <td>Исследовательский проект для инвесторов по открытию небольшого кафе в Москве.</td>
 <td>pandas, numpy, matplotlib.pyplot, scipy, plotly.express, plotly.graph_objects, seaborn</td>
 <tr>
 <td> <b>9</b></td>
-<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/9%20-%20Сборный%20проект2.%20ААВ-тесты/project.ipynb" target="_blank"><b>Сборный проект-2. ААВ-тесты</b></a></td>
+<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/9%20-%20Сборный%20проект2.%20ААВ-тесты" target="_blank"><b>Сборный проект-2. ААВ-тесты</b></a></td>
 <td>А/А/В-тестирование, множественное тестирование и применение поправок к полученным результатам.</td>
 <td>pandas, numpy, matplotlib, matplotlib.pyplot, scipy, plotly, math</b>math</b></td>
 <tr>
@@ -54,7 +54,7 @@
 <td>postgresql, SQL, sqlalchemy, pandas</td>
 <tr>
 <td> <b>11</b></td>
-<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/11%20-%20Основы%20машинного%20обучения/project.ipynb" target="_blank"><b>Проект по курсу Machine Learning</b></a></td>
+<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/11%20-%20Основы%20машинного%20обучения" target="_blank"><b>Проект по курсу Machine Learning</b></a></td>
 <td>Для сети фитнес-центров разрабатываем стратегию взаимодействия с пользователями на основе аналитических данных. Задача проекта -  провести анализ и подготовить план действий по удержанию клиентов. В данном проекте на основании метрик: Accuracy, Precision, Recall, F1, ROC_AUC выбираем подходящую модель прогнозирования из двух обученных: LogisticRegression и RandomForestClassifier. Делаем кластеризацию на основании построенной дендограммы и на основании полученных кластеров строим гистограммы распределения, делаем выводы и прогнозы.</td>
 <td>pandas, seaborn, matplotlib</b>sklearn, scipy.cluster.hierarchy, sklearn.metrics, sklearn.model_selection, sklearn.linear_model, sklearn.ensemble, sklearn.preprocessing, sklearn.cluster</b>  plotly </td>
 <tr>
