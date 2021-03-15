@@ -19,7 +19,7 @@
 <td></b>pandas, scipy, matplotlib, seaborn, numpy, math</b></td>
 <tr>
 <td> <b>4</b></td>
-<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/4%20-%20Сборный%20проект1" target="_blank"><b>Сборный проект-1. Анализ игровой индустрии</b></a></td>
+<td><a href="https://github.com/KateKungurtseva/DataAnalysis/blob/main/4%20-%20Сборный%20проект1" target="_blank"><b>Сборный проект-1. Анализ игровой индустрии</b></a></td>
 <td>Аналитика интернет-магазина игр для консолей и ПК. Необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.</td>
 <td><b>pandas, numpy, matplotlib, seaborn, scipy</b></td>
 <tr>
